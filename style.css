@@ -1,0 +1,11 @@
+.container-fluid
+{
+	border: solid;
+	border-color: violet;
+	border-radius: 5px;
+	background-color: #D3D3D3;
+}
+table ,th,tr,td
+{
+border: 1px solid black;
+}
